@@ -1,6 +1,5 @@
 # Usage
 
-will be edited later
 
 ./backblur.sh [WALLPAPER DIRECTORY]
 
